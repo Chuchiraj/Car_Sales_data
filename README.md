@@ -1,1 +1,1 @@
-Car Selling Price Pridictions
+Car Selling Price Predictions
